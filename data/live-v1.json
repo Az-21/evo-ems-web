@@ -1,7 +1,7 @@
 {
-    "fixedCharge": [
-      0.097,
-      0.236
-    ],
-    "electricityRate": 500
+  "tax": 5.0,
+  "fixedChargeLow": 0.097,
+  "fixedChargeHigh": 0.236,
+  "electricityRate": 500.0,
+  "seasonalModifier": 1.0
 }
