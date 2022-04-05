@@ -1,23 +1,26 @@
-{
-  "India > Karnataka": {
+[
+  {
+    "location": "India > Karnataka",
     "tax": 5,
     "fixedChargeLow": 0.097,
     "fixedChargeHigh": 0.236,
     "electricityRate": 500,
     "seasonalModifier": 1
   },
-  "India > Maharashtra": {
+  {
+    "location": "India > Kerala",
     "tax": 5,
     "fixedChargeLow": 0.1,
     "fixedChargeHigh": 0.23,
     "electricityRate": 498,
     "seasonalModifier": 1
   },
-  "India > Tamil Nadu": {
+  {
+    "location": "India > Tamil Nadu",
     "tax": 5,
     "fixedChargeLow": 0.102,
     "fixedChargeHigh": 0.24,
     "electricityRate": 499,
     "seasonalModifier": 1
   }
-}
+]
